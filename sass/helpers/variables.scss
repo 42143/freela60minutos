@@ -1,0 +1,13 @@
+//COR
+$CorPreto:#000000;
+$CorBranco:#FFFFFF;
+$CorAzulEscuro:#052027;
+$CorAzulClaro:#22C9E7;
+$CorAzulClaro2:#0D6575;
+$CorAmarelo:#FFFF00;
+$CorRosa:#FF0066;
+$CorCinza:#CCCCCC;
+
+//FADE-OUT
+    $Opacity:0.5;
+    $CORCINZA:fade-out($CorCinza,$Opacity);
